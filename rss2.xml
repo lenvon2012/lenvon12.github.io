@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lenvon的博客</title>
+    <link>https://lenvon2012.github.io/</link>
+    
+    <image>
+      <url>https://lenvon2012.github.io/icon.png</url>
+      <title>Lenvon的博客</title>
+      <link>https://lenvon2012.github.io/</link>
+    </image>
+    
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>Lenvon的技术博客</description>
+    <pubDate>Sun, 29 Dec 2019 16:13:12 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Java 13 新特性概述</title>
+      <link>https://lenvon2012.github.io/2019/12/29/new-features-of-Java-13/</link>
+      <guid>https://lenvon2012.github.io/2019/12/29/new-features-of-Java-13/</guid>
+      <pubDate>Sun, 29 Dec 2019 15:38:01 GMT</pubDate>
+      <description>
+      
+        这是一篇加密文章, 内容访问受限, 请输入密码查看.如果你确实想看, 请与作者联系!
+      
+      </description>
+      
+      
+      <comments>https://lenvon2012.github.io/2019/12/29/new-features-of-Java-13/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Java Hashcode 小探</title>
+      <link>https://lenvon2012.github.io/2019/12/21/java-hashcode/</link>
+      <guid>https://lenvon2012.github.io/2019/12/21/java-hashcode/</guid>
+      <pubDate>Sat, 21 Dec 2019 09:33:35 GMT</pubDate>
+      <description>
+      
+        这是一篇加密文章, 内容访问受限, 请输入密码查看.如果你确实想看, 请与作者联系!
+      
+      </description>
+      
+      
+      <comments>https://lenvon2012.github.io/2019/12/21/java-hashcode/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Java多线程编程总结笔记——02多线程基础知识</title>
+      <link>https://lenvon2012.github.io/2019/12/04/java-multi-thread-02/</link>
+      <guid>https://lenvon2012.github.io/2019/12/04/java-multi-thread-02/</guid>
+      <pubDate>Wed, 04 Dec 2019 10:59:02 GMT</pubDate>
+      <description>
+      
+        这是一篇加密文章, 内容访问受限, 请输入密码查看.如果你确实想看, 请与作者联系!
+      
+      </description>
+      
+      
+      <comments>https://lenvon2012.github.io/2019/12/04/java-multi-thread-02/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Java多线程编程总结笔记——01 Java语言的线程</title>
+      <link>https://lenvon2012.github.io/2019/12/04/java-multi-thread-01/</link>
+      <guid>https://lenvon2012.github.io/2019/12/04/java-multi-thread-01/</guid>
+      <pubDate>Wed, 04 Dec 2019 08:55:48 GMT</pubDate>
+      <description>
+      
+        &lt;h2 id=&quot;比较花费时间的I-O操作&quot;&gt;&lt;a href=&quot;#比较花费时间的I-O操作&quot; class=&quot;headerlink&quot; title=&quot;比较花费时间的I/O操作&quot;&gt;&lt;/a&gt;比较花费时间的I/O操作&lt;/h2&gt;&lt;h3 id=&quot;多个客户端&quot;&gt;&lt;a href=&quot;#多个客户端&quot; class=&quot;headerlink&quot; title=&quot;多个客户端&quot;&gt;&lt;/a&gt;多个客户端&lt;/h3&gt;&lt;p&gt;基本上网络上的服务器必须同时处理一个以上的客户端，不过，一定要在服务器这边的程序设计加入一个以上客户端的概念的话，程序会变得更复杂。此时，不妨准备一个当有客户端连接到服务器的时候，会自动出来迎接这个客户点的线程，这样一来，服务器的程序就可以设计成好像只服务一个客户端&lt;/p&gt;
+&lt;h3 id=&quot;并发与并行&quot;&gt;&lt;a href=&quot;#并发与并行&quot; class=&quot;headerlink&quot; title=&quot;并发与并行&quot;&gt;&lt;/a&gt;并发与并行&lt;/h3&gt;&lt;p&gt;当有一个以上的线程的线程来操作时，若计算机只有一个中央处理器，根本不可能进行一个以上的处理。&lt;/p&gt;
+&lt;p&gt;如果在有一个以上的中央处理器的计算机上跑程序，则线程的程序可能是并行（parallel）而非并发，就可以同时运行一个以上的处理。&lt;/p&gt;
+      
+      </description>
+      
+      
+      <comments>https://lenvon2012.github.io/2019/12/04/java-multi-thread-01/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>第一篇文章</title>
+      <link>https://lenvon2012.github.io/2019/12/04/welcome/</link>
+      <guid>https://lenvon2012.github.io/2019/12/04/welcome/</guid>
+      <pubDate>Wed, 04 Dec 2019 08:55:48 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;div id=&quot;vip-container&quot;&gt;&lt;p&gt;人生不只眼前的苟且，还有诗和远方。&lt;/p&gt;
+&lt;/div&gt;
+
+			&lt;script src=&quot;https://my.openwrite.cn/js/readmore.js&quot;
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://lenvon2012.github.io/2019/12/04/welcome/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
